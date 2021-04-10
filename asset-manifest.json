@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/City-Museum/static/css/main.9762b436.chunk.css",
+    "main.js": "/City-Museum/static/js/main.8696151a.chunk.js",
+    "main.js.map": "/City-Museum/static/js/main.8696151a.chunk.js.map",
+    "runtime-main.js": "/City-Museum/static/js/runtime-main.0e58c81d.js",
+    "runtime-main.js.map": "/City-Museum/static/js/runtime-main.0e58c81d.js.map",
+    "static/css/2.5add6c11.chunk.css": "/City-Museum/static/css/2.5add6c11.chunk.css",
+    "static/js/2.eea3c866.chunk.js": "/City-Museum/static/js/2.eea3c866.chunk.js",
+    "static/js/2.eea3c866.chunk.js.map": "/City-Museum/static/js/2.eea3c866.chunk.js.map",
+    "index.html": "/City-Museum/index.html",
+    "static/css/2.5add6c11.chunk.css.map": "/City-Museum/static/css/2.5add6c11.chunk.css.map",
+    "static/css/main.9762b436.chunk.css.map": "/City-Museum/static/css/main.9762b436.chunk.css.map",
+    "static/js/2.eea3c866.chunk.js.LICENSE.txt": "/City-Museum/static/js/2.eea3c866.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/City-Museum/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e58c81d.js",
+    "static/css/2.5add6c11.chunk.css",
+    "static/js/2.eea3c866.chunk.js",
+    "static/css/main.9762b436.chunk.css",
+    "static/js/main.8696151a.chunk.js"
+  ]
+}
