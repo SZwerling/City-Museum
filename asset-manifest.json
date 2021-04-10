@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/City-Museum/static/css/main.9762b436.chunk.css",
-    "main.js": "/City-Museum/static/js/main.8696151a.chunk.js",
-    "main.js.map": "/City-Museum/static/js/main.8696151a.chunk.js.map",
+    "main.js": "/City-Museum/static/js/main.7a679054.chunk.js",
+    "main.js.map": "/City-Museum/static/js/main.7a679054.chunk.js.map",
     "runtime-main.js": "/City-Museum/static/js/runtime-main.0e58c81d.js",
     "runtime-main.js.map": "/City-Museum/static/js/runtime-main.0e58c81d.js.map",
     "static/css/2.5add6c11.chunk.css": "/City-Museum/static/css/2.5add6c11.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.5add6c11.chunk.css",
     "static/js/2.eea3c866.chunk.js",
     "static/css/main.9762b436.chunk.css",
-    "static/js/main.8696151a.chunk.js"
+    "static/js/main.7a679054.chunk.js"
   ]
 }
