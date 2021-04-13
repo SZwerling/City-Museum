@@ -35,7 +35,7 @@ class Members extends React.Component {
                     </div>
                     <div className="col-md-5">
                         <Card>
-                            <CardImg top width="100%" className="" src="photos/insideMuseum.jpg" />
+                            <CardImg top width="100%" className="" src="https://res.cloudinary.com/dpmxxbau5/image/upload/v1618088193/insideMuseum_upfyv1.jpg" />
                         </Card>
                     </div>
                 </div>

@@ -7,7 +7,7 @@ const About = () => {
         <React.Fragment>
             <div className="col-md-5">
                 <Card>
-                    <CardImg top width="100%" className="" src="photos/museum.jpg" />
+                    <CardImg top width="100%" className="" src="https://res.cloudinary.com/dpmxxbau5/image/upload/v1618087466/museum_x3gwhd.jpg" />
                 </Card>
             </div>
             <div className="col-md-7">
